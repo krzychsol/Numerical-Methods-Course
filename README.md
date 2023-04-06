@@ -8,3 +8,4 @@
 - [x] Lab 4: Aproksymacja
 - [x] Lab 5: Całkowanie numeryczne
 - [ ] Lab 6: Całkowanie numeryczne (cd.)
+
