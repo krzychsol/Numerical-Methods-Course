@@ -7,5 +7,5 @@
 - [x] Lab 3: Interpolacja
 - [x] Lab 4: Aproksymacja
 - [x] Lab 5: Całkowanie numeryczne
-- [ ] Lab 6: Całkowanie numeryczne (cd.)
+- [x] Lab 6: Całkowanie numeryczne (cd.)
 
