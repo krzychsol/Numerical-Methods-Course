@@ -8,4 +8,4 @@
 - [x] Lab 4: Aproksymacja
 - [x] Lab 5: Całkowanie numeryczne
 - [x] Lab 6: Całkowanie numeryczne (cd.)
-
+- [x] Lab 7: Pierwiastki równań nieliniowych 
