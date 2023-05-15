@@ -10,3 +10,4 @@
 - [x] Lab 6: Całkowanie numeryczne (cd.)
 - [x] Lab 7: Pierwiastki równań nieliniowych 
 - [x] Lab 8: Wstęp do GSL i GNUPLOT
+- [x] Lab 9: Układy równań liniowych: Metody bezpośrednie
