@@ -11,5 +11,5 @@
 - [x] Lab 7: Pierwiastki równań nieliniowych 
 - [x] Lab 8: Wstęp do GSL i GNUPLOT
 - [x] Lab 9: Układy równań liniowych: Metody bezpośrednie
-- [x] Lab 10: Układy równań liniowych: Metody iteracyjne
+- [x] Lab 10: Układy równań: Metody iteracyjne
 - [x] Lab 11: Rozwiązywanie równań różniczkowych zwyczajnych 
