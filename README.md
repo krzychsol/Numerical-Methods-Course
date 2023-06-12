@@ -13,3 +13,4 @@
 - [x] Lab 9: Układy równań liniowych: Metody bezpośrednie
 - [x] Lab 10: Układy równań: Metody iteracyjne
 - [x] Lab 11: Rozwiązywanie równań różniczkowych zwyczajnych 
+- [x] Lab 12: Całkowanie metodą Monte-Carlo
